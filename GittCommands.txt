@@ -11,6 +11,7 @@ git add GittCommands.txt
 
 git status
 
-git commit -m "First Upload" GittCommands.txt
+git commit -m "First Upload" GittCommands.txt  #Commit changes in the file.
 
-git push -u origin master
+git push -u origin master  #Commit to 
+
