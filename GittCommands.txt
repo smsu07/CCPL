@@ -1,0 +1,5 @@
+git config --global user.name "smsu07"
+
+git config --global user.email smsu07@gmail.com
+
+git clone https://github.com/smsu07/CCPL.git
