@@ -1,0 +1,28 @@
+SELECT Cust_Code, Cust_ShortCode, InputFolder 
+FROM     IES_Customers
+WHERE (Cust_Code='C_00006')
+
+
+
+192.168.13.213
+/TEDDY/
+C:\Program Files (x86)\WinSCP\WinSCP.exe
+FTPDev01
+CITccplftp_007
+
+
+-------------------------SQL Server
+CCPLDB\CCPLDEV
+sa
+CCPLDBA@321#
+
+192.168.13.215,1433
+
+
+Server=myServerName,myPortNumber;Database=myDataBase;User Id=myUsername;Password=myPassword;
+
+Data Source=192.168.13.215,48558;Initial Catalog=CCPL;User ID=sa;Password=************;Encrypt=True
+
+Data Source=CCPL_SD01\CCPL_DEV;Initial Catalog=CCPL;Integrated Security=True;Application Name=SSIS-CCPL_FTP_IDL_Demo-{B0E998D0-8253-42CD-823A-DC34DE7DF30C}CCPL_SD01\CCPL_DEV.CCPL;
+
+Data Source=192.168.13.215,1433;User ID=sa;Initial Catalog=CCPL;Persist Security Info=True;Application Name=SSIS-CCPL_FTP_IDL_ByHour-{1D8570B6-890B-4947-9E74-7FCEA4BA01B9}192.168.13.215,1433.CCPL.sa;

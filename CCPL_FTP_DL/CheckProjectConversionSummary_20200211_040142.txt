@@ -1,0 +1,16 @@
+Item Name:	CCPL_FTP_DL
+Status:		'CCPL_FTP_DL' is using parameters. To make it compatible with the package deployment model, remove the parameters.
+
+
+Item Name:	CCPL_FTP_IDL.dtsx
+Status:		'CCPL_FTP_IDL.dtsx' is using parameters. To make it compatible with the package deployment model, remove the parameters.
+
+
+Item Name:	CCPL_FTP_IDL_FInal.dtsx
+Status:		'CCPL_FTP_IDL_FInal.dtsx' is using parameters. To make it compatible with the package deployment model, remove the parameters.
+
+
+Item Name:	CCPL_FTP_IDL_ByHour.dtsx
+Status:		'CCPL_FTP_IDL_ByHour.dtsx' is using parameters. To make it compatible with the package deployment model, remove the parameters.
+
+
